@@ -1,0 +1,36 @@
+.Home {
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+  display: grid;
+}
+
+.Home h1 {
+  font-size: 40px;
+  color: red;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  padding-bottom: 20px;
+}
+.Home input {
+  width: 30%;
+  margin: auto;
+  border-color: blue;
+  padding: 5px;
+  font-size: 20px;
+  color: brown;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.Home button {
+  width: 20%;
+  margin: auto;
+  padding: 10px;
+  font-size: 24px;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 16px;
+  border-color: black;
+  margin-bottom: 30px;
+}
