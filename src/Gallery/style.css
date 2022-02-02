@@ -5,3 +5,10 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 500px) {
+  .gallery {
+    width: 70%;
+    margin: auto;
+  }
+}

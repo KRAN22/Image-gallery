@@ -34,3 +34,15 @@
   border-color: black;
   margin-bottom: 30px;
 }
+
+@media screen and (max-width: 500px) {
+  .Home {
+    width: 100%;
+  }
+  .Home input {
+    width: 70%;
+  }
+  .Home button {
+    width: 50%;
+  }
+}
